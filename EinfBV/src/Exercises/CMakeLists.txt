@@ -1,0 +1,7 @@
+## Add subfolders for exercises
+
+ADD_SUBDIRECTORY(Exercise01)
+ADD_SUBDIRECTORY(Exercise02)
+ADD_SUBDIRECTORY(Exercise03)
+ADD_SUBDIRECTORY(Exercise04)
+ADD_SUBDIRECTORY(Exercise05)

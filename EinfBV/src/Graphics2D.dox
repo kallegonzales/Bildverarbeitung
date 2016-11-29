@@ -1,0 +1,40 @@
+/**
+  *
+  * @mainpage Documentation
+  *
+  * \par Contents
+  * - \ref introduction
+  * - \ref copyright
+  *
+  * \section introduction Introduction
+  *
+  * Code base used for image processing exercises.
+  *
+  * - **Graphics2D** \n
+  *   Contains classes for image handling, linear algebra
+  *   and 2d graphics used in the programming exercises.
+  *   Builds the static library Graphics2D that can be
+  *   linked to other applications.
+  *   
+  * - **Examples** \n
+  *   Contains examples how to use the classes in Graphics2D.
+  *
+  * - **Exercises** \n
+  *   Parent directory for programming exercises.
+  *
+  * \section copyright Copyright
+  *
+  * This software uses the FreeImage open source image library.
+  * See http://freeimage.sourceforge.net for details.
+  * FreeImage is used under the FreeImage Public License, version 1.0.
+  *
+  * Written by Sandro Esquivel &copy; 2016
+  *
+  * Multimedia Information Processing Group
+  * http://mip.informatik.uni-kiel.de
+  * Department of Computer Science
+  * Kiel University, Germany
+  *
+  * Contact at esquivel@mip.informatik.uni-kiel.de
+  *
+  */
